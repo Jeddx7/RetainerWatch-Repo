@@ -1,0 +1,34 @@
+[
+  {
+    "Author": "Jed",
+    "Name": "RetainerWatch",
+    "InternalName": "RetainerWatch",
+    "AssemblyVersion": "1.0.0.0",
+    "Description": "While browsing a retainer's sell list, click Check for Undercuts to query Universalis for the current lowest price on each listed item (excluding your own other retainers) and highlight any undercut item names in red directly in the list. Use /retainerwatch to manually toggle the check window. Also tracks market board items: /retainerwatch on to record purchases, /retainerwatch stats to view tracked items and Retainer Stats, right-click a retainer listing to track it manually.",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "market board",
+      "retainer",
+      "undercut",
+      "universalis",
+      "profit",
+      "tracking",
+      "stats"
+    ],
+    "CategoryTags": [
+      "other"
+    ],
+    "DalamudApiLevel": 15,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "Punchline": "Warns you in-place when someone has undercut your retainer's listings, and tracks your item profits.",
+    "AcceptsFeedback": true,
+    "RepoUrl": "https://github.com/Jeddx7/RetainerWatch-Repo",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/Jeddx7/RetainerWatch-Repo/main/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Jeddx7/RetainerWatch-Repo/main/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/Jeddx7/RetainerWatch-Repo/main/latest.zip",
+    "DownloadCount": 0
+  }
+]
