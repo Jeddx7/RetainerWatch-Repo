@@ -1,43 +1,38 @@
-﻿[
-    {
-        "value":  [
-                      {
-                          "RepoUrl":  "https://github.com/Jeddx7/RetainerWatch-Repo",
-                          "DownloadLinkInstall":  "https://raw.githubusercontent.com/Jeddx7/RetainerWatch-Repo/main/latest.zip",
-                          "DownloadLinkUpdate":  "https://raw.githubusercontent.com/Jeddx7/RetainerWatch-Repo/main/latest.zip",
-                          "DownloadLinkTesting":  "https://raw.githubusercontent.com/Jeddx7/RetainerWatch-Repo/main/latest.zip",
-                          "DownloadCount":  0,
-                          "Author":  "Jed",
-                          "Name":  "RetainerWatch",
-                          "InternalName":  "RetainerWatch",
-                          "AssemblyVersion":  "1.0.0.0",
-                          "Description":  "RetainerWatch keeps an eye on your retainers\u0027 market board listings and helps you react fast when someone undercuts you -- without digging through Universalis or clicking through menus by hand.\n\nUNDERCUT CHECKING\nOpen a retainer\u0027s sell list and click Check All to compare every listed item against the lowest price elsewhere. Undercut items are flagged immediately, with a one-click Adjust to Undercut that opens the price dialog, compares live prices, and fills in a new competitive price for you to confirm.\n\nBATCH REPRICING\nForce Check runs through every stale listing on a retainer automatically, pausing at each item that needs your approval. You control how stale is too stale, and how long to wait between items.\n\nPROFIT TRACKING \u0026 STATS\nTurn on tracking and every market board purchase is recorded automatically. See purchase price, live margin, and profit right in the sell list, or dive into the full Retainer Stats screen for daily/weekly/monthly/yearly breakdowns, per-retainer summaries, your best sales, and a top-sellers leaderboard.\n\nAUTO-TRACKING \u0026 CLEANUP\nItems already listed but never tracked get picked up automatically, with a smart price estimate pulled from Universalis. Purchases that never make it to a retainer get cleaned up on their own.\n\nCommands: /retainerwatch to toggle the check window, /retainerwatch stats for the analytics screen, /retainerwatch on or off to toggle purchase tracking.",
-                          "ApplicableVersion":  "any",
-                          "Tags":  [
-                                       "market board",
-                                       "retainer",
-                                       "undercut",
-                                       "universalis",
-                                       "profit",
-                                       "tracking",
-                                       "stats"
-                                   ],
-                          "CategoryTags":  [
-                                               "other"
-                                           ],
-                          "DalamudApiLevel":  15,
-                          "LoadRequiredState":  0,
-                          "LoadSync":  false,
-                          "CanUnloadAsync":  false,
-                          "LoadPriority":  0,
-                          "ImageUrls":  [
-                                            "https://i.imgur.com/gtv6TwN.png"
-                                        ],
-                          "IconUrl":  "https://i.imgur.com/gtv6TwN.png",
-                          "Punchline":  "Catches undercut retainer listings, automates repricing, and tracks your market board profits.",
-                          "AcceptsFeedback":  true
-                      }
-                  ],
-        "Count":  1
-    }
+[
+  {
+    "RepoUrl": "https://github.com/Jeddx7/RetainerWatch-Repo",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/Jeddx7/RetainerWatch-Repo/main/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Jeddx7/RetainerWatch-Repo/main/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/Jeddx7/RetainerWatch-Repo/main/latest.zip",
+    "DownloadCount": 0,
+    "Author": "Jed",
+    "Name": "RetainerWatch",
+    "InternalName": "RetainerWatch",
+    "AssemblyVersion": "1.0.0.0",
+    "Description": "RetainerWatch keeps an eye on your retainers' market board listings and helps you react fast when someone undercuts you -- without digging through Universalis or clicking through menus by hand.\n\nUNDERCUT CHECKING\nOpen a retainer's sell list and click Check All to compare every listed item against the lowest price elsewhere. Undercut items are flagged immediately, with a one-click Adjust to Undercut that opens the price dialog, compares live prices, and fills in a new competitive price for you to confirm.\n\nBATCH REPRICING\nForce Check runs through every stale listing on a retainer automatically, pausing at each item that needs your approval. You control how stale is too stale, and how long to wait between items.\n\nPROFIT TRACKING & STATS\nTurn on tracking and every market board purchase is recorded automatically. See purchase price, live margin, and profit right in the sell list, or dive into the full Retainer Stats screen for daily/weekly/monthly/yearly breakdowns, per-retainer summaries, your best sales, and a top-sellers leaderboard.\n\nAUTO-TRACKING & CLEANUP\nItems already listed but never tracked get picked up automatically, with a smart price estimate pulled from Universalis. Purchases that never make it to a retainer get cleaned up on their own.\n\nCommands: /retainerwatch to toggle the check window, /retainerwatch stats for the analytics screen, /retainerwatch on or off to toggle purchase tracking.",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "market board",
+      "retainer",
+      "undercut",
+      "universalis",
+      "profit",
+      "tracking",
+      "stats"
+    ],
+    "CategoryTags": [
+      "other"
+    ],
+    "DalamudApiLevel": 15,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "ImageUrls": [
+      "https://i.imgur.com/gtv6TwN.png"
+    ],
+    "IconUrl": "https://i.imgur.com/gtv6TwN.png",
+    "Punchline": "Catches undercut retainer listings, automates repricing, and tracks your market board profits.",
+    "AcceptsFeedback": true
+  }
 ]
